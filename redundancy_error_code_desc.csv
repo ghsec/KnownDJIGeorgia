@@ -1,0 +1,179 @@
+id,en_name,name,version,element__code,element__usr_err_tips,element__history_enable,element__usr_show_enable,element__free_repair,element__ground_action,element__in_air_used_action
+6,,IMU,1,1,disconnect,0,0,0,,
+,,,,2,version mismatch,0,1,0,please update firmware,
+,,,,4,Initialize failed,1,1,0,please check sensor and reset the craft,please slowly get craft back if craft behave abnormally
+,,,,5,Initializing,0,1,0,please keep craft static and wait,
+,,,,7,altitude exception,1,1,0,please ask technical assistance for help,please slowly get craft back if craft behave abnormally
+,,,,10,Initializing,0,1,0,please keep craft static and wait,
+,,,,13,data exception,1,1,1,please ask technical assistance for help,
+,,,,16,altitude exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,19,acceleration exception,1,1,0,please reset the craft,
+,,,,22,attitude exception,1,1,0,please reset the craft,
+,,,,25,altitude exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,28,angular velocity exception,1,1,0,please check IMU installed correctly,please slowly get craft back if craft behave abnormally
+,,,,31,acceleration exception,1,1,0,please check IMU installed correctly,please slowly get craft back if craft behave abnormally
+,,,,34,vertical velocity exception,1,1,0,please check IMU installed correctly,please slowly get craft back if craft behave abnormally
+,,,,37,altitude exception,1,1,0,please check IMU installed correctly,please slowly get craft back if craft behave abnormally
+,,,,40,attitude exception,1,1,0,please check IMU installed correctly,please slowly get craft back if craft behave abnormally
+,,,,43,heading exception,1,1,0,please check compass direction installed correctly,please switch to atti mode if craft behave abnormally
+,,,,47,horizontal velocity exception,1,1,0,please check GPS or VPS installed correctly,please switch to atti mode if craft behave abnormally
+,,,,50,position exception,1,1,0,please check GPS or VPS installed correctly,please switch to atti mode if craft behave abnormally
+,,,,53,heading exception,1,1,0,please reset the craft,please switch to atti mode if craft behave abnormally
+,,,,56,heading exception,1,1,0,please reset the craft,please switch to atti mode if craft behave abnormally
+,,,,59,horizontal velocity exception,1,1,0,please reset the craft,please switch to atti mode if craft behave abnormally
+,,,,62,bias estimation exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+,,,,65,attitude exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+,,,,68,vertical velocity exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+,,,,71,heading exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+,,,,74,attitude exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+,,,,77,vertical velocity exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+,,,,80,heading exception,1,1,0,please reset the craft,please slowly get craft back if craft behave abnormally
+9,,accelerometer,1,1,data exception,1,1,1,please ask technical assistance for help,please slowly get craft back if craft behave abnormally
+,,,,4,data exception,1,1,0,please ask technical assistance for help if repeats after reset,please switch to mannual mode if craft behave abnormally
+,,,,7,disconnect,1,1,0,please ask technical assistance for help if repeats after reset,please switch to mannual mode if craft behave abnormally
+,,,,10,data exception,1,1,0,please check IMU installed correctly,please check IMU installed correctly
+,,,,13,data exception,1,1,0,please ask technical assistance for help if repeats after reset,please fly slowly
+,,,,16,parameter exception,1,1,1,please ask technical assistance for help if repeats after reset,
+,,,,19,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,22,bias large,0,1,0,please calibrate IMU,
+,,,,28,calibration exception,0,1,0,please calibrate IMU,
+,,,,31,mounting exception,0,1,0,please write mounting information,
+,,,,34,mounting exception,0,1,0,please check mounting information,
+,,,,37,preheating failed,1,1,0,please reset the craft,
+,,,,39,temperature warning,1,1,0,please keep IMU cool,please slowly get craft back if craft behave abnormally
+,,,,42,temperature high,1,1,0,please keep IMU cool,please slowly get craft back if craft behave abnormally
+,,,,45,temperature low,1,1,0,,
+,,,,48,preheating,0,1,0,please wait,
+,,,,51,communication exception,1,1,0,please reset the craft,
+,,,,54,calibration exception,0,1,0,please calibrate IMU,
+,,,,57,calibration exception,0,1,0,please calibrate IMU,
+,,,,60,calibration exception,1,1,1,please ask technical assistance for help,
+,,,,63,calibration exception,0,1,0,please calibrate IMU,
+,,,,67,mounting exception,0,1,0,please check mounting information,
+,,,,70,mounting exception,0,1,0,please ask technical assistance for help,
+,,,,73,calibration exception,0,1,0,please cool the craft and calibrate IMU,
+,,,,76,calibration exception,0,1,0,please cool the craft and calibrate IMU,
+,,,,79,calibration exception,0,1,0,please calibrate IMU,
+,,,,82,calibration exception,0,1,0,please cool the craft and calibrate IMU,
+,,,,85,calibration exception,1,1,0,please ask technical assistance for help,
+,,,,88,calibration exception,1,1,0,please ask technical assistance for help,
+,,,,91,calibration exception,0,1,0,please keep craft static and calibrate IMU,
+8,gyroscope,,1,1,data exception,1,1,0,please ask technical assistance for help,please slowly get craft back if craft behave abnormally
+,,,,4,data exception,1,1,0,please ask technical assistance for help if repeats after reset,please switch to mannual mode if craft behave abnormally
+,,,,7,disconnect,1,1,0,please ask technical assistance for help if repeats after reset,please switch to mannual mode if craft behave abnormally
+,,,,10,data exception,1,1,0,please check IMU installed correctly,please check IMU installed correctly
+,,,,13,data exception,1,1,0,please ask technical assistance for help if repeats after reset,please fly slowly
+,,,,16,parameter exception,1,1,1,please ask technical assistance for help if repeats after reset,
+,,,,19,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,22,bias large,0,1,0,please calibrate IMU,
+,,,,28,calibration exception,0,1,0,please calibrate IMU,
+,,,,37,preheating failed,1,1,0,please reset the craft,
+,,,,39,temperature warning,1,1,0,please keep IMU cool,please slowly get craft back if craft behave abnormally
+,,,,42,temperature high,1,1,0,please keep IMU cool,please slowly get craft back if craft behave abnormally
+,,,,45,temperature low,1,1,0,,
+,,,,48,preheating,0,1,0,please wait,
+,,,,51,communication exception,1,1,0,please reset the craft,
+,,,,54,calibration exception,0,1,0,please calibrate IMU,
+,,,,57,calibration exception,0,1,0,please calibrate IMU,
+,,,,60,calibration exception,0,1,0,please ask technical assistance for help,
+,,,,63,calibration exception,0,1,0,please calibrate IMU,
+,,,,67,mounting exception,0,1,0,please ask technical assistance for help,
+,,,,73,calibration exception,0,1,0,please cool the craft and calibrate IMU,
+,,,,76,calibration exception,0,1,0,please cool the craft and calibrate IMU,
+,,,,79,calibration exception,0,1,0,please calibrate IMU,
+,,,,82,calibration exception,0,1,0,please cool the craft and calibrate IMU,
+,,,,85,calibration exception,0,1,0,please ask technical assistance for help,
+,,,,88,calibration exception,0,1,0,please ask technical assistance for help,
+,,,,91,calibration exception,0,1,0,please keep craft static and calibrate IMU,
+12,,compass,1,1,disconnect,1,1,0,please reset and check connection,please switch to atti mode if craft behave abnormally
+,,,,4,data exception,1,1,0,please ask technical assistance for help if repeats after reset,please switch to atti mode if craft behave abnormally
+,,,,7,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,10,data exception,1,1,0,please ask technical assistance for help if repeats after reset,please switch to atti mode if craft behave abnormally
+,,,,13,magnetic-field interference,0,1,0,"please move away from interference,if problem unfixed then calibrate compass",please switch to atti mode if craft behave abnormally
+,,,,16,data exception,1,1,0,please check compass direction installed correctly or magnetic interference existed,please switch to atti mode if craft behave abnormally
+,,,,19,calibration exception,0,1,0,please calibrate compass,
+,,,,22,communication exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,25,calibration exception,0,1,0,please calibrate compass,
+,,,,28,calibration exception,0,1,0,please calibrate compass,
+,,,,31,calibration exception,1,1,0,please calibrate compass,
+,,,,34,mounting exception,0,1,0,please check compass direction installed correctly,
+,,,,37,mounting exception,0,1,0,please ask technical assistance for help,
+,,,,40,magnetic-field interference,0,1,0,please move away from ground interference or calibrate compass,
+,,,,43,magnetic-field interference,0,1,0,please move away from ground interference or calibrate compass,
+,,,,46,calibration exception,0,1,0,please move away from interference and recalibrate compass,
+7,,GPS,1,1,data exception,1,1,0,please ask technical assistance for help,
+,,,,4,disconnect,0,1,0,please reset and check connection,
+,,,,7,data exception,1,1,0,please reset the craft,
+,,,,10,data exception,1,1,0,please reset the craft,
+,,,,13,low accuracy,0,1,0,please reset the craft,
+,,,,16,low accuracy,0,1,0,please reset the craft,
+,,,,19,mounting exception,0,1,0,please write mounting information,
+,,,,22,mounting exception,0,1,0,please check mounting information,
+,,,,25,version mismatch,1,1,0,please update firmware,
+,,,,28,communication exception,1,1,0,please reset the craft,
+,,,,31,low accuracy,1,1,0,please reset the craft,
+,,,,34,low accuracy,1,1,0,please reset the craft,
+11,,barometer,1,1,data exception,1,1,0,please ask technical assistance for help,
+,,,,4,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,7,disconnect,1,1,0,please reset and check connection,
+,,,,10,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,13,data exception,1,1,0,please check IMU installed correctly,
+,,,,16,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,19,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,22,temperature exception,1,1,0,please keep IMU cool,
+,,,,25,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+25,,RTK,1,1,data exception,1,1,0,please ask technical assistance for help,
+,,,,4,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,7,data exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,10,data exception,1,1,0,please reset and check connection,
+,,,,13,disconnect,0,1,0,please reset and check connection,
+,,,,16,mounting exception,0,1,0,please write mounting information,
+,,,,19,mounting exception,0,1,0,please check mounting information,
+,,,,22,version mismatch,0,1,0,please update firmware,
+,,,,25,communication exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,28,measurement unfixed,0,1,0,please ask technical assistance for help if repeats after reset,
+,,,,31,heading exception,1,1,0,please check mounting information,
+,,,,34,communication exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,37,antenna exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,40,antenna exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,43,antenna exception,1,1,0,please ask technical assistance for help if repeats after reset,
+,,,,46,communication exception,1,1,0,please ask technical assistance for help if repeats after reset,
+14,,vps,1,1,data exception,1,1,0,please ask technical assistance for help,
+,,,,4,data exception,1,1,0,,
+,,,,7,disconnect,1,1,0,please reset and check connection,
+,,,,10,mounting exception,1,1,0,,
+,,,,13,version mismatch,1,1,0,,
+,,,,16,communication exception,1,1,0,,
+,,,,19,data exception,1,1,0,,
+,,,,22,data exception,1,1,0,,
+13,,ultrasonic altimeter,1,1,data exception,1,1,0,please ask technical assistance for help,
+,,,,4,data exception,1,1,0,,
+,,,,7,disconnect,1,1,0,please reset and check connection,
+,,,,10,mounting exception,1,1,0,,
+,,,,13,version mismatch,1,1,0,,
+,,,,16,communication exception,1,1,0,,
+15,,radar,1,1,data exception,1,1,0,please ask technical assistance for help,
+,,,,4,data exception,1,1,0,,
+,,,,7,disconnect,1,1,0,please reset and check connection,
+,,,,10,mounting exception,1,1,0,,
+,,,,13,version mismatch,1,1,0,,
+,,,,16,communication exception,1,1,0,,
+1,,esc,1,1,exception,0,1,0,please ask technical assistance for help,
+3,,sys,1,1,locked,0,1,0,please ask technical assistance for help,
+,,,,2,serial number invalid,0,1,0,please ask technical assistance for help,
+,,,,3,SD card exception,0,1,0,please repair SD card,
+,,,,4,not activated,0,1,0,please activate the flight controller,
+,,,,5,thrust ratio over large,0,1,0,please ask technical assistance for help,
+27,,battery,1,1,cell exception,0,1,0,please ask technical assistance for help if repeats after reset,
+,,,,2,communication exception,0,1,0,please ask technical assistance for help if repeats after reset,
+,,,,3,voltage is very low,0,1,0,please charge battery,
+,,,,4,number is not engouh,0,1,0,please insert more battery,
+,,,,5,authentication exception,0,1,0,please ask technical assistance for help if repeats after reset,
+,,,,6,communication exception,0,1,0,please check battery connection,
+,,,,7,voltage difference large,0,1,0,please check battery status,
+,,,,8,voltage difference very large,0,1,0,please check battery status,
+21,,RC,1,1,calibration exception,0,1,0,please calibrate rc,
+,,,,2,calibration exception,0,1,0,please calibrate rc,
+,,,,3,calibration exception,0,1,0,please calibrate rc,
+,,,,4,calibration exception,0,1,0,please calibrate rc,
+,,,,5,calibration exception,0,1,0,please finish rc calibration,
